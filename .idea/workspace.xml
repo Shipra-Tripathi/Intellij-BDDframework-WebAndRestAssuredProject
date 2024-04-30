@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.2/junit-4.13.2-sources.jar!/org/junit/internal/builders/AllDefaultPossibilitiesBuilder.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -35,38 +38,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Cucumber Java.Feature: GetReq1.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: GetRequest.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: Swag.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Get universities from South Africa.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Login with valid credentials.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Post request validation.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: To buy the vegetables online.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: To verify test links.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Validate username and Password.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Validating switch tabs.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Verify delete request.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: Verify get operation.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Scenario: validate get operations.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.RunnerFile.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/shipra.tripathi/IdeaProjects/PracticeS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: GetReq1.executor": "Run",
+    "Cucumber Java.Feature: GetRequest.executor": "Run",
+    "Cucumber Java.Feature: Swag.executor": "Run",
+    "Cucumber Java.Scenario: Get universities from South Africa.executor": "Run",
+    "Cucumber Java.Scenario: Login with valid credentials.executor": "Run",
+    "Cucumber Java.Scenario: Post request validation.executor": "Run",
+    "Cucumber Java.Scenario: To buy the vegetables online.executor": "Run",
+    "Cucumber Java.Scenario: To verify test links.executor": "Run",
+    "Cucumber Java.Scenario: Validate username and Password.executor": "Run",
+    "Cucumber Java.Scenario: Validating switch tabs.executor": "Run",
+    "Cucumber Java.Scenario: Verify delete request.executor": "Run",
+    "Cucumber Java.Scenario: Verify get operation.executor": "Run",
+    "Cucumber Java.Scenario: validate get operations.executor": "Run",
+    "JUnit.RunnerFile.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/ProjectDrive/PracticeS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\ProjectDrive\PracticeS\src\main\resources" />
