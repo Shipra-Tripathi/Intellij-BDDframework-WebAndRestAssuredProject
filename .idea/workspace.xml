@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4a5215a-bc3f-4b92-8c42-1b895dd7ab1f" name="Changes" comment="" />
+    <list default="true" id="c4a5215a-bc3f-4b92-8c42-1b895dd7ab1f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StepsDef/AskSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StepsDef/AskSteps.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -40,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Cucumber Java.Feature: GetR.executor": "Run",
     "Cucumber Java.Feature: GetReq1.executor": "Run",
     "Cucumber Java.Feature: GetRequest.executor": "Run",
     "Cucumber Java.Feature: Swag.executor": "Run",
@@ -47,6 +56,7 @@
     "Cucumber Java.Scenario: Login with valid credentials.executor": "Run",
     "Cucumber Java.Scenario: Post request validation.executor": "Run",
     "Cucumber Java.Scenario: To buy the vegetables online.executor": "Run",
+    "Cucumber Java.Scenario: To place a order online via website.executor": "Run",
     "Cucumber Java.Scenario: To verify test links.executor": "Run",
     "Cucumber Java.Scenario: Validate username and Password.executor": "Run",
     "Cucumber Java.Scenario: Validating switch tabs.executor": "Run",
@@ -56,9 +66,9 @@
     "JUnit.RunnerFile.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "localB",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/ProjectDrive/PracticeS",
+    "last_opened_file_path": "C:/ProjectDrive/Intellij-BDDframework-WebAndRestAssuredProject/PracticeS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,16 +86,14 @@
       <recent name="C:\ProjectDrive\PracticeS\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: To verify test links">
-    <configuration name="Scenario: Get universities from South Africa" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber Java.Feature: GetR">
+    <configuration name="Feature: GetR" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/Files/GetReq1.feature" />
-      <option name="GLUE" value="StepsDef" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/Files/GetR.feature" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="PracticeS" />
-      <option name="NAME_FILTER" value="^Get universities from South Africa$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Get universities from South Africa$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Get universities from South Africa" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: GetR" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -116,14 +124,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: To verify test links" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: To place a order online via website" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/Files/AskmeOffer.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/Files/MagnetoAssesment.feature" />
+      <option name="GLUE" value="StepsDef" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="PracticeS" />
-      <option name="NAME_FILTER" value="^To verify test links$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^To verify test links$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: To verify test links" />
+      <option name="NAME_FILTER" value="^To place a order online via website$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^To place a order online via website$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: To place a order online via website" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -135,15 +144,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Validate username and Password" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: To verify test links" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/Files/Swag.feature" />
-      <option name="GLUE" value="StepsDef" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/Files/AskmeOffer.feature" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="PracticeS" />
-      <option name="NAME_FILTER" value="^Validate username and Password$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Validate username and Password$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Validate username and Password" />
+      <option name="NAME_FILTER" value="^To verify test links$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^To verify test links$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: To verify test links" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -172,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: GetR" />
+        <item itemvalue="Cucumber Java.Scenario: To place a order online via website" />
         <item itemvalue="Cucumber Java.Scenario: To verify test links" />
         <item itemvalue="JUnit.RunnerFile" />
         <item itemvalue="Cucumber Java.Scenario: To buy the vegetables online" />
-        <item itemvalue="Cucumber Java.Scenario: Get universities from South Africa" />
-        <item itemvalue="Cucumber Java.Scenario: Validate username and Password" />
       </list>
     </recent_temporary>
   </component>
